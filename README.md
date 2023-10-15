@@ -1,5 +1,5 @@
-Project brief
-The following live example shows a biography, which has been styled using CSS. The CSS properties that are used are as follows — each one links to its property page on MDN, which will give you more examples of its use.
+#Project brief
+The following live example shows a biography, which has been styled using CSS. The CSS properties that are used are as follows — each one links to its property page on MDN, which will give you more examples of its use. <br/>
 
 font-family
 color
